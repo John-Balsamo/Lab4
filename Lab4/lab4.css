@@ -1,0 +1,33 @@
+/* John "Cody" Balsamo lab4.css */
+body 
+{
+   background-color: #000000;
+   background-image: url(orbs.jpg);
+   background-size: cover;
+   color: #FFFFFF; 
+   width: 800px;
+   padding: 40px;
+}
+h1
+{
+  color: #202835;
+  text-align: center;
+  font-family: 'Play', verdana;
+}
+p 
+{
+  background-color: #bdbfc1;
+  color: #272728;
+  text-align: left;
+  font-family: 'Play', verdana;
+  border: 3px groove #edeeef;
+}
+.table
+{
+  background-color: #bdbfc1;
+  color: #272728;
+  text-align: center;
+  font-family: 'Play', verdana;
+  border: 3px groove #edeeef;
+  float: center;
+}
